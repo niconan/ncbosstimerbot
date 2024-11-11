@@ -1,1 +1,1 @@
-web: python ncbosstimerbot.py
+web:python server.py
