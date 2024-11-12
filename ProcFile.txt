@@ -1,2 +1,2 @@
-worker: python ncbosstimerbot.py
+worker: python maint.py
 
