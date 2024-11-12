@@ -1,1 +1,2 @@
-web: python ncbosstimerbot.py
+worker: python ncbosstimerbot.py
+
